@@ -9,7 +9,7 @@
 <style>
 div.ex {
 	text-align: right width:300px;
-	padding: 10px;
+	padding: 11px;
 	border: 5px solid grey;
 	margin: 0px
 }
