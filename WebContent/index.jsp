@@ -28,7 +28,7 @@ div.ex {
 					<td><input type="text" name="fullname"/></td>
 				</tr>
 				<tr>
-					<td>Student Last Name</td>
+					<td>Student Middle Name</td>
 					<td><input type="text" name="fullname"/></td>
 				</tr>
 				<tr>
